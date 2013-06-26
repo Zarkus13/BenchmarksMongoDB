@@ -1,5 +1,8 @@
 *.class
 *.log
+.idea/
+.idea_modules
+*.iml
 
 # sbt specific
 dist/*
